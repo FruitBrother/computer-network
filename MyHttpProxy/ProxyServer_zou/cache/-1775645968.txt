@@ -1,0 +1,18 @@
+Sat, 6 May 2017 13:31:42 GMT
+HTTP/1.1 302 Moved Temporarily
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 0
+Connection: keep-alive
+Date: Fri, 21 Apr 2017 10:40:29 GMT
+x-oss-request-id: 58F9E19D11198B995B312730
+Location: http://noavatar.csdn.net/3/6/0/3_zwy1114860564.jpg
+Via: cache7.l2cm12[0,302-0,H], cache8.l2cm12[1,0], kunlun5.cn17[0,302-0,H], kunlun7.cn17[1,0]
+Age: 1277472
+X-Cache: HIT TCP_HIT dirn:10:664187998
+X-Swift-SaveTime: Sat, 29 Apr 2017 10:46:53 GMT
+X-Swift-CacheTime: 93312000
+Access-Control-Allow-Origin: http://my.csdn.net
+Timing-Allow-Origin: *
+EagleId: 79c2010714940487019292855e
+

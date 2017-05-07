@@ -1,0 +1,18 @@
+Sat, 6 May 2017 13:31:42 GMT
+HTTP/1.1 302 Moved Temporarily
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 0
+Connection: keep-alive
+Date: Fri, 31 Mar 2017 11:54:59 GMT
+x-oss-request-id: 58DE43939D862CE21BB64706
+Location: http://noavatar.csdn.net/D/D/8/3_cinderella_hou.jpg
+Via: cache5.l2cm12[0,302-0,H], cache8.l2cm12[0,0], kunlun10.cn17[0,302-0,H], kunlun9.cn17[1,0]
+Age: 3087402
+X-Cache: HIT TCP_MEM_HIT dirn:11:502811309
+X-Swift-SaveTime: Tue, 04 Apr 2017 01:16:17 GMT
+X-Swift-CacheTime: 93312000
+Access-Control-Allow-Origin: http://my.csdn.net
+Timing-Allow-Origin: *
+EagleId: 79c2010914940487019307006e
+

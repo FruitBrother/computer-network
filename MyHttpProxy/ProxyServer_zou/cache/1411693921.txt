@@ -1,0 +1,12 @@
+Sat, 6 May 2017 13:31:40 GMT
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 06 May 2017 05:31:40 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 73
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Powered-By: Express
+ETag: W/"49-81f1b6bb"
+
+jQuery111102452032927204435_1494048699484({"err":0,"msg":"ok","data":[]})

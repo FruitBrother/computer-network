@@ -1,0 +1,10 @@
+Sat, 6 May 2017 13:32:58 GMT
+HTTP/1.1 304 Not Modified
+Date: Sat, 06 May 2017 05:32:58 GMT
+Content-Type: image/png
+ETag: 49d1f12e579e11dd7941c07776d4fef3
+Age: 1
+X-Cache: HIT from cache.51cdn.com
+X-Via: 1.1 yw52:3 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

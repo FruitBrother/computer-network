@@ -1,0 +1,13 @@
+Sat, 6 May 2017 13:31:40 GMT
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 06 May 2017 05:31:40 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 2376
+Connection: keep-alive
+Keep-Alive: timeout=20
+Cache-Control: private, max-age=0, must-revalidate
+ETag: "0a8974ccff699ca0691f74d612945e28"
+X-Powered-By: PHP 5.4.28
+
+{"list":[{"ArticleId":46757657,"BlogId":4998163,"CommentId":6692468,"Content":"用c++怎么实现啊","ParentId":0,"PostTime":"2017-03-22 15:41","Replies":null,"UserName":"Cinderella_hou","Userface":"http://avatar.csdn.net/D/D/8/3_cinderella_hou.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":6256813,"Content":"[reply]zwy1114860564[/reply]\n确实应该是xi_(j+k)","ParentId":5712411,"PostTime":"2016-09-04 15:11","Replies":null,"UserName":"sjq2910201013","Userface":"http://avatar.csdn.net/A/0/D/3_sjq2910201013.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":6107954,"Content":"楼主 求导最后的表达式确实写错了 应该是wj*xi（j+k） \nxi上少加了k次方 不过太感谢楼主解决了我的困惑 我还说怎么也推导不出书上的结果。。。","ParentId":0,"PostTime":"2016-06-30 15:19","Replies":null,"UserName":"u012088576","Userface":"http://avatar.csdn.net/3/2/1/3_u012088576.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":5712411,"Content":"楼主你的求导最后的表达式错了，但是书写矩阵的时候又写对了。","ParentId":0,"PostTime":"2015-12-11 10:45","Replies":null,"UserName":"zwy1114860564","Userface":"http://avatar.csdn.net/3/6/0/3_zwy1114860564.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":5298545,"Content":"lz你这个方程组\nmatAA=numpy.linalg.solve(matA,matB)\n有可能无解\n\n应该用normal equation比较好","ParentId":0,"PostTime":"2015-08-12 08:47","Replies":null,"UserName":"promzaid","Userface":"http://avatar.csdn.net/2/2/4/3_promzaid.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":5284465,"Content":"[reply]u013147245[/reply]\n\n这得看数字取值的具体情况，有些情况下方程是无解的，有些情况下是有解的，但是python的solve() 方法会在方程无解的情况下求它的近似解","ParentId":5284289,"PostTime":"2015-08-07 14:05","Replies":null,"UserName":"xiaolewennofollow","Userface":"http://avatar.csdn.net/3/A/B/3_xiaolewennofollow.jpg"},{"ArticleId":46757657,"BlogId":4998163,"CommentId":5284289,"Content":"博主你好，请问最后那个方程解不开吗？","ParentId":0,"PostTime":"2015-08-07 12:47","Replies":null,"UserName":"u013147245","Userface":"http://avatar.csdn.net/D/4/5/3_u013147245.jpg"}],"page":{"PageSize":20,"PageIndex":1,"RecordCount":0,"PageCount":0},"total":0,"fileName":46757657}

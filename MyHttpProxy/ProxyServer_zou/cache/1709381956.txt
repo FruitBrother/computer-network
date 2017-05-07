@@ -1,0 +1,15 @@
+Sat, 6 May 2017 13:32:27 GMT
+HTTP/1.1 304 Not Modified
+Date: Sat, 06 May 2017 05:32:27 GMT
+Server: nginx
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: X-Log, X-Reqid
+Access-Control-Max-Age: 2592000
+Cache-Control: public, max-age=31536000
+ETag: "Fm6q0fIv38Xh2WsRWqUMTIArPODi"
+X-Log: mc.g;IO/304
+X-Reqid: MioAACww6ZRr7bsU
+X-Qiniu-Zone: 0
+X-Via: 1.1 yw165:2 (Cdn Cache Server V2.0), 1.1 yw117:10 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

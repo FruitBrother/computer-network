@@ -1,0 +1,12 @@
+Sat, 6 May 2017 13:31:40 GMT
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 06 May 2017 05:31:40 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1175
+Connection: keep-alive
+Keep-Alive: timeout=20
+Cache-Control: private
+X-Powered-By: PHP 5.4.28
+
+[{"username":"xiaolewennofollow","articleid":"46757657","title":"李航《统计学习方法》多项式函数拟合问题V2","viewcount":"3166","posttime":"2015-07-04"},{"username":"xiaolewennofollow","articleid":"46406447","title":"高斯判别分析算法及其python实现","viewcount":"1944","posttime":"2015-06-08"},{"username":"xiaolewennofollow","articleid":"46380239","title":"生成学习算法概述","viewcount":"1091","posttime":"2015-06-05"},{"username":"xiaolewennofollow","articleid":"46127485","title":"主成分分析法原理及其python实现","viewcount":"1153","posttime":"2015-05-28"},{"username":"xiaolewennofollow","articleid":"45891235","title":"FP-growth算法","viewcount":"1346","posttime":"2015-05-21"},{"username":"xiaolewennofollow","articleid":"45541159","title":"K-均值聚类算法的原理与实现","viewcount":"1844","posttime":"2015-05-06"},{"username":"xiaolewennofollow","articleid":"45074905","title":"利用Python进行机器学习和数据挖掘概述","viewcount":"1291","posttime":"2015-04-16"},{"username":"xiaolewennofollow","articleid":"44906315","title":"支持向量机smo算法","viewcount":"402","posttime":"2015-04-06"}]

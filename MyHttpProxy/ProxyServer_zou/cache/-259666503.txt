@@ -1,0 +1,18 @@
+Sat, 6 May 2017 13:31:42 GMT
+HTTP/1.1 302 Moved Temporarily
+Server: Tengine
+Content-Type: image/jpeg
+Content-Length: 0
+Connection: keep-alive
+Date: Mon, 23 Jan 2017 08:47:13 GMT
+x-oss-request-id: 5885C31111198BAD656B4EF2
+Location: http://noavatar.csdn.net/2/2/4/3_promzaid.jpg
+Via: cache7.l2nu17[0,302-0,H], cache16.l2nu17[1,0], kunlun5.cn17[0,302-0,H], kunlun8.cn17[1,0]
+Age: 8887468
+X-Cache: HIT TCP_MEM_HIT dirn:9:881015577
+X-Swift-SaveTime: Mon, 27 Feb 2017 03:28:40 GMT
+X-Swift-CacheTime: 31104000
+Access-Control-Allow-Origin: http://my.csdn.net
+Timing-Allow-Origin: *
+EagleId: 79c2010814940487019318056e
+

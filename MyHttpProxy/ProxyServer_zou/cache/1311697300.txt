@@ -1,0 +1,13 @@
+Sat, 6 May 2017 13:31:47 GMT
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Cache-Control: max-age=0
+Content-Length: 0
+Content-Type: image/gif
+Date: Sat, 06 May 2017 05:31:47 GMT
+Etag: "4280832337"
+Expires: Sat, 06 May 2017 05:31:47 GMT
+Last-Modified: Fri, 23 Oct 2009 08:06:04 GMT
+Pragma: no-cache
+Server: BWS/1.0
+

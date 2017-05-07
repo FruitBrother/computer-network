@@ -1,0 +1,17 @@
+Sat, 6 May 2017 13:33:15 GMT
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2016 10:20:56 GMT
+Server: nginx/1.2.9
+Content-Type: application/x-javascript; charset=utf-8
+Transfer-Encoding: chunked
+X-Powered-By: PHP/5.2.17
+Last-Modified: Thu, 24 Mar 2016 08:46:53 GMT
+Cache-Control: max-age=600
+Age: 1
+X-Via: 1.1 yuwang46:8107 (Cdn Cache Server V2.0), 1.1 yuwang216:8110 (Cdn Cache Server V2.0), 1.1 yw51:6 (Cdn Cache Server V2.0)
+Connection: keep-alive
+
+68
+document.write('<script charset="utf-8" src="http://s2.qhimg.com/static/ab77b6ea7f3fbf79.js"></script>')
+0
+

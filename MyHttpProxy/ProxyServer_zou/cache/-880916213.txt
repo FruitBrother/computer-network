@@ -1,0 +1,10 @@
+Sat, 6 May 2017 13:33:17 GMT
+HTTP/1.1 200 OK
+Server: nginx/1.0.12
+Date: Sat, 06 May 2017 05:33:16 GMT
+Content-Type: image/gif
+Content-Length: 0
+Last-Modified: Wed, 16 Mar 2016 09:14:39 GMT
+Connection: close
+Accept-Ranges: bytes
+

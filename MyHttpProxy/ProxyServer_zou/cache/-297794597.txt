@@ -1,0 +1,13 @@
+Sat, 6 May 2017 13:31:42 GMT
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sat, 06 May 2017 05:31:42 GMT
+Content-Type: application/json; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=20
+
+b31
+jQuery111102452032927204435_1494048699484([{"commentNum":0,"id":"2:53519391","createTime":"2016-12-08 15:50:25","title":"李航·统计学习方法笔记·第6章 logistic regression与最大熵模型（1）·逻辑斯蒂回归模型","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/tina_ttl/article/details/53519391"},{"commentNum":0,"id":"2:51011426","createTime":"2016-03-30 09:54:39","title":"统计学习方法 李航---第10章 隐马尔可夫模型","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/demon7639/article/details/51011426"},{"commentNum":0,"id":"2:51729741","createTime":"2016-06-21 19:45:45","title":"李航统计学习方法-改进的迭代尺度算法(IIS)总结","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/xiaokang06/article/details/51729741"},{"commentNum":1,"id":"2:53084871","createTime":"2016-11-08 17:38:56","title":"李航《统计学习方法》第六章——用Python实现逻辑斯谛回归（MNIST数据集）","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/wds2006sdo/article/details/53084871"},{"commentNum":0,"id":"2:53303932","createTime":"2016-11-23 13:04:21","title":"《李航：统计学习方法》--- 感知机算法原理与实现","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/u013358387/article/details/53303932"},{"commentNum":0,"id":"2:53200190","createTime":"2016-11-17 16:11:59","title":"统计学习方法李航---第一章","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/u012374510/article/details/53200190"},{"commentNum":0,"id":"2:50915569","createTime":"2016-03-17 18:22:52","title":"《统计学习方法》李航著——第一章学习笔记","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/jpday/article/details/50915569"},{"commentNum":0,"id":"2:47059599","createTime":"2015-07-25 21:42:45","title":"统计学习方法——模型的选择与评估（过拟合、泛化能力）","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/lucylove3943/article/details/47059599"},{"commentNum":0,"id":"2:51011408","createTime":"2016-03-30 09:54:17","title":"统计学习方法 李航---第1章 统计学习方法概论","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/demon7639/article/details/51011408"},{"commentNum":0,"id":"2:60326817","createTime":"2017-03-04 16:31:16","title":"统计学习方法——模型与问题分类","sourceName":"CSDN博客","strategy":"SearchAlgorithm","images":[""],"url":"http://blog.csdn.net/qq_35082030/article/details/60326817"}])
+0
+

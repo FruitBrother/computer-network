@@ -1,0 +1,10 @@
+Sat, 6 May 2017 13:31:41 GMT
+HTTP/1.1 302 Found
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html
+Date: Sat, 06 May 2017 05:31:41 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Location: https://cms.gtags.net/m?v=9&baidu_user_id=1b47c788f543f2bd1da8a30aa25288a0571bafa23a9e25ed6c90047e1f6028b5309505b6e4aa9ce9e12e88708ff1c126&cookie_version=2&timestamp=1494048701&ext_data=
+Server: nginx
+

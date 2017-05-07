@@ -1,0 +1,13 @@
+Sat, 6 May 2017 13:31:37 GMT
+HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 06 May 2017 05:31:37 GMT
+Content-Type: application/x-javascript
+Content-Length: 0
+Last-Modified: Thu, 04 May 2017 09:22:08 GMT
+Connection: keep-alive
+ETag: "590af2c0-0"
+Expires: Sat, 06 May 2017 06:31:37 GMT
+Cache-Control: max-age=3600
+Accept-Ranges: bytes
+

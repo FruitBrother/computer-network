@@ -1,0 +1,10 @@
+Sat, 6 May 2017 13:31:44 GMT
+HTTP/1.1 302 Found
+Connection: keep-alive
+Content-Length: 0
+Content-Type: text/html
+Date: Sat, 06 May 2017 05:31:43 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Location: http://match.p4p.1688.com:80/besmap?&baidu_user_id=112d9843a45dafcfab8dba84e736e1c2db9bf5f100c101198ccb9494b75787728b614bcc8e2adc3bc6bf38a336c10bd3&cookie_version=2&timestamp=1494048703&ext_data=
+Server: nginx
+
